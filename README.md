@@ -19,10 +19,12 @@ OpenCV: Computer vision library for image processing.
 NumPy: Library for numerical operations.
 
 How to Run
-
 Install required libraries:  pip install flask opencv-python-headless 
+
 Create the necessary directories:  mkdir uploads cartoon_images
+
 Run the application:  python your_script_name.py
+
 Access the app at http://localhost:8080.
 
 Usage:
